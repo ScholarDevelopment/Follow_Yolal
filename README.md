@@ -84,3 +84,5 @@ __My Network:__
 ## Blogposts
 - Complete the blogpost: how to make DDOS attack. [link](https://oyolal.github.io/posts/attackddos.html)
 
+## Personal Development
+- Reading Book: Power of Understanding People
