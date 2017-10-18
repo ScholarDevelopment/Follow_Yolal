@@ -3,6 +3,8 @@
 ## Contents
 
 - [Personal Summary](#personal-summary)
+- [Online Course](#online-course)
+- [Textbooks](#textbooks) 
 - [CV Development](#cv-development)
 - [LinkedIn](#linkedin)
 - [GitHub Usage](#github-usage)
@@ -17,6 +19,13 @@
 > Add here what are you good at.
 
 > Combine all of them to create you personal summary that will be a concise paragraf that talks about you. (Something like a LinkedIn summary)
+
+## Online Course
+- List the Online Course
+- 
+
+## Textbooks
+- List the Textbooks to follow
 
 ## CV Development
 
