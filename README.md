@@ -70,4 +70,13 @@ __Ideas:__
 
 > Add the hierarcy of your github repositories.
 
->> Will continue adding sections and content
+
+## Networking
+
+__My Network:__
+
+- Professor X, Cybersecurity
+-
+
+- Goal for next meetup: 
+  - meet with 2 people 
