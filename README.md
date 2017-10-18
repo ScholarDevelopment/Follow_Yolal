@@ -20,6 +20,13 @@
 
 > Combine all of them to create you personal summary that will be a concise paragraf that talks about you. (Something like a LinkedIn summary)
 
+### The Fields under the CyberSecurity:
+- Field 1
+- Field 2
+- ...
+
+### The Field you want to work on:
+
 ## Online Course
 - List the Online Course
 - [Internet Connection: How to get Online](https://www.coursera.org/learn/internet-connection-how-to-get-online)
