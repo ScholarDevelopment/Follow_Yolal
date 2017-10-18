@@ -8,9 +8,13 @@
 - [CV Development](#cv-development)
 - [LinkedIn](#linkedin)
 - [GitHub Usage](#github-usage)
+- [Networking](#networking)
+- [Blogposts](#blogposts)
+- [Personal Development](#personal-development)
 
 
 ## Personal Summary
+__Update Here__
 
 > Add here which career path you want to follow.
 
@@ -20,6 +24,7 @@
 
 > Combine all of them to create you personal summary that will be a concise paragraf that talks about you. (Something like a LinkedIn summary)
 
+
 ### The Fields under the CyberSecurity:
 - Field 1
 - Field 2
@@ -27,14 +32,16 @@
 
 ### The Field you want to work on:
 
+
 ## Online Course
-- List the Online Course
+
 - [Internet Connection: How to get Online](https://www.coursera.org/learn/internet-connection-how-to-get-online)
 
 ## Textbooks
-- List the Textbooks to follow
+- List the Textbooks if follow
 
 ## CV Development
+__Update Here__
 
 > Your CV is one of the most important key elements to prepare you for after-school. 
 
@@ -49,6 +56,7 @@
 > If you have CV as a GitHub account, add the link under this section
 
 ## LinkedIn
+__Update Here__
 
 > Add here you LinkedIn account
 
@@ -61,6 +69,7 @@
 > In the Job section you should select your interest so the job offers and ads will come from those interests
 
 ## GitHub Usage
+__Update Here__
 
 __Ideas:__
 
@@ -72,6 +81,7 @@ __Ideas:__
 
 
 ## Networking
+__Update Here__
 
 __My Network:__
 
@@ -82,6 +92,8 @@ __My Network:__
   - meet with 2 people 
 
 ## Blogposts
+__Update Here__
+
 - Complete the blogpost: how to make DDOS attack. [link](https://oyolal.github.io/posts/attackddos.html)
 
 ## Personal Development
