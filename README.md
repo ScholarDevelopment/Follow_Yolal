@@ -62,8 +62,12 @@
 
 ## GitHub Usage
 
-> Add here the hierarchy of your GitHub Repositories.
+__Ideas:__
 
+- Bash Scripting
+- Python Scripts/Repository
+- Terminal/Linux 
 
+> Add the hierarcy of your github repositories.
 
 >> Will continue adding sections and content
