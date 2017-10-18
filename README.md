@@ -80,3 +80,7 @@ __My Network:__
 
 - Goal for next meetup: 
   - meet with 2 people 
+
+## Blogposts
+- Complete the blogpost: how to make DDOS attack. [link](https://oyolal.github.io/posts/attackddos.html)
+
