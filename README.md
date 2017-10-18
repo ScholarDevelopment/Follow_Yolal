@@ -22,7 +22,7 @@
 
 ## Online Course
 - List the Online Course
-- https://www.coursera.org/learn/internet-connection-how-to-get-online
+- [Internet Connection: How to get Online](https://www.coursera.org/learn/internet-connection-how-to-get-online)
 
 ## Textbooks
 - List the Textbooks to follow
