@@ -14,13 +14,12 @@
 
 
 ## Personal Summary
-__Update Here__
 
-> Add here which career path you want to follow.
+> I would like to work fields related to Cyber Security.
 
-> Also add here what are the fields you would like to work on.
+> Also add here what are t.
 
-> Add here what are you good at.
+> Network Security.
 
 > Combine all of them to create you personal summary that will be a concise paragraf that talks about you. (Something like a LinkedIn summary)
 
